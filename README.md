@@ -1,5 +1,7 @@
 # meu-projeto-fastapi
 
+"1 agente" (1 system prompt + 1 chamada ao modelo)
+
 API em FastAPI que expõe um endpoint de chat integrado à API da OpenAI.
 
 ## Requisitos
